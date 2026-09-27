@@ -269,7 +269,7 @@ No explicit open-source license was found in the project materials used to prepa
 
 ## Contact
 
-**Developer:** 和冬生  
+**Developer:** 胡冬生  
 **Email:** [hudongsheng356@gmail.com](mailto:hudongsheng356@gmail.com)
 
-Copyright © 2026 和冬生.
+Copyright © 2026 胡冬生.
